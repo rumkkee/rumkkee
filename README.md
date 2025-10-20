@@ -1,5 +1,5 @@
 
-Hi, my name's Esther!  <br>
+Hi, my name's Esther.  <br>
 
 I'm a TA for databases, and I like making ambient digital pieces
 
